@@ -76,7 +76,7 @@ jupyter notebook
 
 This analysis highlights how Netflix content has grown over time, which genres dominate, and how content varies across different regions.
 
-Moreover this is a project to show my Analysis skills
+Moreover this is a project to show my Analysis skills.
 
 ---
 
